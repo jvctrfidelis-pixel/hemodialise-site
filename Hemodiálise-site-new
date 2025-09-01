@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hemodiálise - Explicação</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f6f9;
+      color: #333;
+    }
+    header {
+      background: #1976d2;
+      color: #fff;
+      padding: 20px 10px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    main {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #1976d2;
+      border-bottom: 2px solid #1976d2;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin-top: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      background: #1976d2;
+      color: #fff;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hemodiálise</h1>
+    <p>Entenda como funciona esse importante tratamento renal</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>O que é Hemodiálise?</h2>
+      <p>A hemodiálise é um procedimento médico utilizado para filtrar o sangue de pessoas cujos rins não conseguem mais realizar essa função de forma adequada. Ela remove toxinas, excesso de líquidos e sais minerais do organismo.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiRSxm6ML-VZSjyBmH34mIvXOT8RJePOEztemEm4xQKkFTGwh-SZF6aB2&s=10" alt="Explicação de hemodiálise">
+    </section>
+
+    <section>
+      <h2>Como Funciona?</h2>
+      <p>Durante a hemodiálise, o sangue do paciente é retirado do corpo, passa por uma máquina chamada dialisador que realiza a filtragem, e depois retorna limpo para o organismo.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5mM_Z_gAueFQPUNKq3WxXFPx4OhkP3vR1VsPXOctJyIGZV5bi6yVk59E&s=10" alt="Máquina de hemodiálise">
+    </section>
+
+    <section>
+      <h2>O Processo</h2>
+      <p>O processo geralmente dura de 3 a 4 horas e deve ser repetido várias vezes por semana. É um tratamento que exige disciplina e acompanhamento constante.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSF7iSaKrUpwrceUC8YyYpaoqrOZgdRYFLXlvnbHtYOtSyyy8NyXIgiCw&s=10" alt="Paciente em hemodiálise">
+    </section>
+
+    <section>
+      <h2>Importância</h2>
+      <p>A hemodiálise é essencial para manter a vida de pessoas com insuficiência renal crônica. Sem esse tratamento, o acúmulo de toxinas no corpo pode ser fatal.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArmq6B1NRo_wNCYJ2Egx3eKuPKWNNsvHxSJRyNOk9ilTL-h86WeTuOMs&s=10" alt="Importância da hemodiálise">
+    </section>
+
+    <section>
+      <h2>Profissionais Envolvidos</h2>
+      <p>O tratamento é acompanhado por médicos nefrologistas, enfermeiros e técnicos especializados. O trabalho em equipe garante a segurança e o bem-estar do paciente.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxyT6436Ouy7mfs0bakXp2n_OauqPvUKfQVp3ggLebNVZhabkadLxwYQ&s=10" alt="Equipe médica">
+    </section>
+
+    <section>
+      <h2>Qualidade de Vida</h2>
+      <p>Mesmo sendo um tratamento exigente, a hemodiálise possibilita que os pacientes tenham qualidade de vida, realizando atividades cotidianas e mantendo esperança enquanto aguardam um transplante renal.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCeiI56Q9Cq10qvbUDqeloxlTG46N2kfzSvB_EAiNXGtSA24pXgyvey6u&s=10" alt="Paciente vivendo com hemodiálise">
+    </section>
+  </main>
+
+  <footer>
+    <p>Trabalho escolar - Hemodiálise | 2025</p>
+  </footer>
+</body>
+</html>
